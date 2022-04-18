@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650280843 source:c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\trab1b_q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Entidade.h"
+
+1646873958 c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\trab1b_q1\entidade.h
+
+1650280843 source:c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\trab1b_q1\entidade.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Entidade.h"
+
